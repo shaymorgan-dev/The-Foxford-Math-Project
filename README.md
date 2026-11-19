@@ -53,3 +53,9 @@
 1. Склонируй репозиторий:
    ```bash
    git clone https://github.com/shaymorgan-dev/The-Foxford-Math-Project.git
+
+2. Перейди в папку с проектом.
+
+3. Открой файл index.html в любом современном браузере (двойным кликом).
+
+

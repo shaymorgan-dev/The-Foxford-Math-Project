@@ -5,7 +5,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![MathJax](https://img.shields.io/badge/MathJax-0288D1?style=for-the-badge&logo=latex&logoColor=white)](https://www.mathjax.org/)
 
-**🔗 [Посмотреть интерактивный проект (Live Demo)](https://shaymorgan-dev.github.io/НАЗВАНИЕ_ТВОЕГО_РЕПОЗИТОРИЯ/)**
+**🔗 [Посмотреть интерактивный проект (Live Demo)](https://shaymorgan-dev.github.io/The-Foxford-Math-Project/)**
 
 ---
 
@@ -52,4 +52,4 @@
 
 1. Склонируй репозиторий:
    ```bash
-   git clone https://github.com/shaymorgan-dev/НАЗВАНИЕ_ТВОЕГО_РЕПОЗИТОРИЯ.git
+   git clone https://github.com/shaymorgan-dev/The-Foxford-Math-Project.git

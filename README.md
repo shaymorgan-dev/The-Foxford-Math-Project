@@ -7,6 +7,9 @@
 
 **🔗 [Посмотреть интерактивный проект (Live Demo)](https://shaymorgan-dev.github.io/The-Foxford-Math-Project/)**
 
+<img width="1902" height="924" alt="2026-11-19_23-42-11" src="https://github.com/user-attachments/assets/ab8b7c55-fb3e-4142-b19c-a3bd845835b0" />
+
+
 ---
 
 ## 📖 О проекте
